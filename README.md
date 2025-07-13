@@ -8,7 +8,7 @@ This project uses the classic **Boston Housing dataset** to build a **Multiple L
 - Understand the relationship between housing features and median house price (`MEDV`)
 - Visualize feature correlations using heatmaps and scatter plots
 - Build a Multiple Linear Regression model
-- Evaluate model performance using MAE and R² Score
+- Evaluate model performance using MAE 
 - Visualize predictions against actual values
 
 ---
