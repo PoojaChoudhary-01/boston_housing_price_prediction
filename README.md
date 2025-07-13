@@ -1,5 +1,7 @@
 # 🏡 Boston Housing Price Prediction
 This project uses the classic **Boston Housing dataset** to build a **Multiple Linear Regression** model for predicting house prices. It includes **exploratory data analysis (EDA)**, **correlation analysis**, **model training**, and **evaluation** using key performance metrics.
+[![View in NBViewer](https://img.shields.io/badge/Jupyter%20Notebook-View%20in%20nbviewer-orange)](https://nbviewer.org/url/raw.githubusercontent.com/PoojaChoudhary-01/boston_housing_price_prediction/main/boston_housing_price_prediction.ipynb)
+
 
 ---
 
