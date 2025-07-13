@@ -74,11 +74,13 @@ The **Boston Housing dataset** contains information about various housing attrib
 ### 🔹 Correlation Heatmap  
 - Highlights strong positive & negative correlations.
 - `RM` (positive) and `LSTAT` (negative) were most influential.
+<img width="711" height="562" alt="Screenshot 2025-07-13 050623" src="https://github.com/user-attachments/assets/ba02c1e5-de56-4f10-97ce-3a6fe5573d64" />
 
 ### 🔹 Actual vs Predicted Plot  
 - Red dots = model predictions  
 - Black diagonal = perfect prediction line  
 - Most points lie close to the diagonal → good model fit
+<img width="907" height="610" alt="Screenshot 2025-07-13 050525" src="https://github.com/user-attachments/assets/32afa973-1293-4323-a260-cbc25e1da4bd" />
 
 ---
 
