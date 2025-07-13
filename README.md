@@ -38,8 +38,9 @@ The **Boston Housing dataset** contains information about various housing attrib
 ## 🔍 Workflow Overview
 
 1. **Data Import & Cleaning**
-   - Loaded using `sklearn.datasets.load_boston`
-   - Converted to Pandas DataFrame
+   - Loaded dataset using `pd.read_csv("boston.csv")`
+   - DataFrame created directly from CSV and verified using `.info()` and `.describe()`
+
 2. **Exploratory Data Analysis (EDA)**
    - Descriptive statistics and structure
    - Heatmap of feature correlations
