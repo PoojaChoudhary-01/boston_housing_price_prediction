@@ -53,7 +53,6 @@ The **Boston Housing dataset** contains information about various housing attrib
    - Applied `train_test_split()` to separate training and test data
 5. **Model Evaluation**
    - Calculated **Mean Absolute Error (MAE)**
-   - Calculated **R² Score**
    - Visualization of model performance
 
 ---
@@ -63,7 +62,6 @@ The **Boston Housing dataset** contains information about various housing attrib
 | Metric | Value |
 |--------|-------|
 | **Mean Absolute Error (MAE)** | ~3.20 |
-| **R² Score**                  | ~0.71 (if calculated) |
 
 🔹 The model performs reasonably well. Most predictions are close to the actual values with an average error of ~$3,200.
 
